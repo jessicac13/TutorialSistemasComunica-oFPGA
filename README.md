@@ -6,7 +6,7 @@ Com base em um levantamento de requisitos e seguindo as especificações, os blo
 
 1.  **Modulação QPSK (Quadrature Phase Shift Keying):**
     * **O que é:** Uma técnica de modulação digital que mapeia pares de bits em símbolos complexos (I+jQ), alterando a fase da portadora para transmitir dois bits por símbolo. É amplamente utilizada em cenários de baixa relação sinal-ruído.
-    * **Material Teórico:** [Modulação QPSK e Sua Aplicação](./ARQUIVOS-DIDATICOS/Modulação-QPSK-e-sua-aplicação.pdf)
+    * **Material Teórico:** [Modulação QPSK e Sua Aplicação](./qpsk/Modulação QPSK e sua aplicação.pdf)
 
 2.  **Codificação Turbo (Turbo Coding):**
     * **O que é:** Um código corretor de erros (FEC) de alto desempenho, conhecido por sua capacidade de se aproximar do Limite de Shannon. No padrão LTE, é implementado como um PCCC (Parallel Concatenated Convolutional Code) com taxa de 1/3, garantindo robustez contra erros de transmissão.
