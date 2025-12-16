@@ -74,4 +74,4 @@ Com base em um levantamento de requisitos e seguindo as especificações, os blo
 
 Este projeto está licenciado sob a Licença MIT.
 
-Copyright (c) 2025 Faber Bernardo
+
